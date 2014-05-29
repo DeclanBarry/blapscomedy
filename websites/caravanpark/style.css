@@ -1,0 +1,14 @@
+body
+{
+background-image:url(images/gradient.png);
+background-repeat:repeat-x;
+    background-color: #129bd2;
+} 
+
+ul
+{
+list-style-type:none;
+margin:11;
+padding:11;
+
+} 
