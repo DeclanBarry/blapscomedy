@@ -14,5 +14,20 @@ padding:11;
 } 
 #testofile 
 {
-    color: white;
+
+    font-size: 30px;
+}
+#welcome
+{
+    text-align: center;
+}
+#welcomeinfo
+{
+    text-align: right;
+}
+#goodtimes
+
+{
+left: 50%;
+    right 50%;
 }
